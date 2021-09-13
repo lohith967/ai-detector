@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+width:100% ;
+font-size: 40px;
+margin: 0px;
+}
+
+.start_button{
+    font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    position: fixed;
+    color: black;
+    line-height: 2;
+    text-align: center;
+    margin: 0;
+}
+
+canvas{
+margin-top:100px;
+box-shadow: 5px 5px 5px lightcoral;
+border-radius: 20px;
+border:2px solid white;
+}
